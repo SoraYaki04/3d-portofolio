@@ -30,3 +30,20 @@ The combination of these tools allows for a portfolio that is not only functiona
 * [TailwindCSS](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev/)
 
+---
+
+## 🌐 Live Demo
+
+Check out the deployed version here: [Your Vercel Link](https://your-vercel-link.vercel.app)
+
+---
+
+
+## 🙌 Acknowledgements
+
+This portfolio was built as a way to combine my passion for coding, design, and interactive 3D experiences.
+I also created this project with inspiration and references from JSMastery youtube channel, which helped me understand and implement concepts such as React, Three.js, and TailwindCSS more effectively.
+
+Thank you for visiting and exploring my work 🚀.
+
+
