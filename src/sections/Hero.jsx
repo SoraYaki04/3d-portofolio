@@ -7,7 +7,7 @@ import { PerspectiveCamera } from '@react-three/drei';
 import { calculateSizes } from '../constants/index.js';
 import HackerRoom from '../components/HackerRoom';
 import CanvasLoader from '../components/Loading.jsx';
-import Target from '../components/Target.jsx'
+// import Target from '../components/Target.jsx'
 // import {Leva, useControls} from 'leva'
 import { useMediaQuery } from 'react-responsive';
 import HeroCamera from '../components/HeroCamera.jsx';
@@ -102,7 +102,7 @@ const Hero = () => {
 
 
                     <group>
-                        <Target position={sizes.targetPosition} />
+                        {/* <Target position={sizes.targetPosition} /> */}
                         <ReactLogo position={sizes.reactLogoPosition}/>
                         <Cube position={sizes.cubePosition} />
                         <Rings position={sizes.ringPosition} />
